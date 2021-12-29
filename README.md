@@ -1,2 +1,2 @@
 # efr32mg22_mini_board
-efr32mg22_mini_board
+Not tested!
